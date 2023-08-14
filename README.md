@@ -1,7 +1,7 @@
 # GDLike-Pages
 
 <p align="center">
-  <img src="./example1.png" alt="GDLike-Pages Logo" width="200">
+  <img src="./banner.png" alt="GDLike-Pages Logo" width="500">
 </p>
 
 Welcome to **GDLike-Pages** - a webpage generator inspired by the aesthetic of Geometry Dash!
@@ -14,7 +14,7 @@ The original project was developed by **GDColon**, and this version is an adapta
 
 Here are some screenshots of pages created using GDLike-Pages:
 
-![Example 1](examples/example1.png)
+![Example 1](./example.png)
 
 ## How to Use
 
