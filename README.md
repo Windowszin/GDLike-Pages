@@ -14,7 +14,7 @@ The original project was developed by **GDColon**, and this version is an adapta
 
 Here are some screenshots of pages created using GDLike-Pages:
 
-![Example 1](./example.png)
+![Example 1](./example1.png)
 
 ## How to Use
 
