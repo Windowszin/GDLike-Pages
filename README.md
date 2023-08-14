@@ -52,4 +52,5 @@ This project is licensed under the [Mozilla 2.0](LICENSE).
 ---
 
 **Disclaimer**: This project is an adaptation and is not officially affiliated with the Geometry Dash game. It is intended for educational and creative purposes only.
+
 **NÃO sabe muito de ingles e sabe falar portugues? [CHEQUE O README EM PORTUGUES BRASILEIRO!](READMEBR.md)
