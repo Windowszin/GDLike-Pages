@@ -47,7 +47,7 @@ Contributions are welcome! If you'd like to add new features, fix issues, or imp
 
 ## License
 
-This project is licensed under the [Mozilla 2.0](LICENSE).
+This project is licensed under the [MPL 2.0](LICENSE).
 
 ---
 
